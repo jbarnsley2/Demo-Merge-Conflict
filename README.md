@@ -1,3 +1,3 @@
 # Demo-Merge-Conflict
 
-Jen Barnsley
+A simple demo, by Jen Barnsley, for DMIT-2018
